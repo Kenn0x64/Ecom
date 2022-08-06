@@ -2,7 +2,7 @@
 E-Commerce App Using Plain PHP 
 
 
-#Screen Shots
+# Screen Shots
 ![Screenshot from 2022-08-06 19-53-44](https://user-images.githubusercontent.com/110425449/183258593-03d71818-8b47-41b1-a5ba-4eaf7f5fa858.png)
 ![Screenshot from 2022-08-06 19-54-53](https://user-images.githubusercontent.com/110425449/183258596-1e5ab522-a753-4d35-aef8-d2aef59ccdae.png)
 ![Screenshot from 2022-08-06 19-55-16](https://user-images.githubusercontent.com/110425449/183258600-7eb846aa-bd61-4d94-b5f0-4baafe4db9d8.png)
