@@ -1,8 +1,10 @@
 # Ecom Project made with Plain PHP
 E-Commerce App Using Plain PHP 
+
+<p>
 Please bare in mind this app has been made in 3 days 
 It has Bugs and issues and am fully aware of it but am too buys to work on this project
-
+</p>
 
 # Screen Shots
 ![Screenshot from 2022-08-06 19-53-44](https://user-images.githubusercontent.com/110425449/183258593-03d71818-8b47-41b1-a5ba-4eaf7f5fa858.png)
